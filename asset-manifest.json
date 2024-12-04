@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subhumardi07/myreact/static/css/main.f855e6bc.css",
+    "main.js": "/subhumardi07/myreact/static/js/main.2437e827.js",
+    "static/js/453.fc89fcfa.chunk.js": "/subhumardi07/myreact/static/js/453.fc89fcfa.chunk.js",
+    "index.html": "/subhumardi07/myreact/index.html",
+    "main.f855e6bc.css.map": "/subhumardi07/myreact/static/css/main.f855e6bc.css.map",
+    "main.2437e827.js.map": "/subhumardi07/myreact/static/js/main.2437e827.js.map",
+    "453.fc89fcfa.chunk.js.map": "/subhumardi07/myreact/static/js/453.fc89fcfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2437e827.js"
+  ]
+}
